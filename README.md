@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-DamonCrux/DamonCrux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!---Q
+damoncrux/damoncrux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://github.com/DamonCrux/DamonCrux.git
+https://github.com/damoncrux/damoncrux.git
